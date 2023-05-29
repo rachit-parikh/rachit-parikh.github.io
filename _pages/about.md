@@ -2,7 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: Research Intern, COSIC, KU Leuven
+subtitle: Research Intern, COSIC, KU Leuven<br>
+          rachit [dot] parikh4 [at] gmail [dot] com
 
 profile:
   align: right

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: projects
-permalink: /projects/
+permalink :
 description: A growing collection of your cool projects.
 nav: true
 nav_order: 2
@@ -18,7 +18,7 @@ horizontal: false
   {%- assign categorized_projects = site.projects | where: "category", category -%}
   {%- assign sorted_projects = categorized_projects | sort: "importance" %}
   <!-- Generate cards for each project -->
-  {% if page.horizontal -%}
+  {% if page.horizontal -%} 
   <div class="container">
     <div class="row row-cols-2">
     {%- for project in sorted_projects -%}

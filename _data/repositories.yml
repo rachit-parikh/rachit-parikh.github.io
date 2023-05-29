@@ -1,12 +1,6 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - motabha1
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - motabha1/p256_ecc
+  - motabha1/phrase-extractor
